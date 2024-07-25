@@ -1,0 +1,4 @@
+
+1. 팀월들이 사용할 라이브러리 : maven - pom.xml, gradle - build.gradle
+2. 기본설정파일 : application.properties
+3. 기본설정 : Spring Security, JWT
